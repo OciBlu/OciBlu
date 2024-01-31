@@ -1,8 +1,8 @@
 # DIYS
-## ![Electronic learn & Programming](#)
-<img
 
-I'm Bagas or [diystron](https://www.instagram.com/diystron/) on sosials media
+<img src="https://github.com/diystron/diystron/blob/main/image.png" border-radius="50%" width="200" height="200"/>
+
+I'm Bagas or [diystron](https://www.instagram.com/diystron/) on my sosials media
 
 I have a hobby of electronics, technology, and modeling design. Here I share my projects and progress in learning technology. My specialization is in electronics, instrumentation, micro controller embedded systems including circuit design, circuit development, and applied electronic circuits.
 
