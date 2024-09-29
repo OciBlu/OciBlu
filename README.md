@@ -1,5 +1,5 @@
 # diys
-<img src="https://github.com/diystron/diystron/blob/main/image.png" border-radius="50%" width="200" height="200"/>
+<img src="https://github.com/diystron/diystron/blob/main/file/image.png" border-radius="50%" width="200" height="200"/>
 
 I'm **Bagas** or [**diystron**](https://www.instagram.com/diystron/) on my sosials media
 
