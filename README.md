@@ -3,7 +3,7 @@
 
 I'm **Bagas** or [**OciBlu**](https://www.instagram.com/ociblu/) on my sosials media
 
-I have a hobby of electronics, technology, and modeling design. Here I share my projects and progress in learning technology. My specialization is in electronics, instrumentation, micro controller embedded systems including circuit design, circuit development, and applied electronic circuits.
+I have a hobby of electronics, technology, and modeling design. Here I share my projects and progress in learning technology. My specialization in electronics hardware, microcontroller, embedded systems, and automatic system including circuit design, circuit development, and applied electronic circuits.
 
 ## Skills
 
