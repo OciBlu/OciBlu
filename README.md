@@ -1,5 +1,5 @@
 # diys
-<img src="https://github.com/diystron/diystron/blob/main/file/image.png" border-radius="50%" width="200" height="200"/>
+<!---<img src="https://github.com/diystron/diystron/blob/main/file/image.png" border-radius="50%" width="200" height="200"/>--->
 
 I'm **Bagas** or [**OciBlu**](https://www.instagram.com/ociblu/) on my sosials media
 
